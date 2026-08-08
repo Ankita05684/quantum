@@ -35,3 +35,4 @@ while t<tf:
       line.set_ydata(np.abs(us)**2)
       plt.pause(0.00001)
 plt.show()
+plt.show()
